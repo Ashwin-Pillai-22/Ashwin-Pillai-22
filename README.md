@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ashwin-Pillai-22
-- 👀 I’m interested in Coding, AI and Machine Learning
+- 👀 I’m interested in AI and Machine Learning, Coding, DSA
+- 🐍Python, java, C are my comfort languages. But I'm always ready to learn.
 - 🌱 I’m currently learning AI & ML
 - 📫 How to reach me - You can reach me on LinkedIn https://www.linkedin.com/in/ashwin-pillai-hello-world/
 - 😄 Pronouns: He/Him
